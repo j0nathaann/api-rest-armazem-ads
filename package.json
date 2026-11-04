@@ -9,7 +9,7 @@
   "start": "node dist/server.js",
   "db:init": "tsx src/database/init.ts",
   "db:seed": "tsx src/database/seed.ts"
-}
+},
   "keywords": [],
   "author": "",
   "license": "ISC",
